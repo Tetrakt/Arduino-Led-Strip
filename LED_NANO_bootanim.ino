@@ -1,4 +1,5 @@
-/*
+/* 
+ * Version 1.1
  * 15 MODES, CYCLE WITH A BUTTON, LED STRIP CODE
  * TARUN TALREJA
  * credits:

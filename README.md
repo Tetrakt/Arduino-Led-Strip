@@ -5,10 +5,7 @@ The article:https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effe
 
 All code is free to use and be modified.
 
-I recomend adding code to make it controllable from your Android/ iOS smart phone or tablet.
-if you wish to modify code as such, it is my request that you also send the code to me, as i would like to upgrade this small project.
-
-inspiration to create this. 
-The rainbow effect.
+The nspiration to create this project was a video by Devon Crawford 
+https://www.youtube.com/watch?v=lU1GVVU9gLU
 
 More updates and modifications are on the way.

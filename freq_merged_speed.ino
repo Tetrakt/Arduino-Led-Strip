@@ -1,6 +1,7 @@
-/*
+/* Base build + new Music Reactive Module
  * merged with freq resp build
- * debug build
+ * Beta build
+ * May function faster on ESP8266
  */
 #include <FastLED.h>
 #include <Adafruit_NeoPixel.h>

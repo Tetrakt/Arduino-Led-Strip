@@ -9,3 +9,8 @@ The nspiration to create this project was a video by Devon Crawford
 https://www.youtube.com/watch?v=lU1GVVU9gLU
 
 More updates and modifications are on the way.
+
+Libraries used
+FastLED
+Adafruit_NeoPixel
+arduinoFFT

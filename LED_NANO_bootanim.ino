@@ -1,6 +1,7 @@
 /* 
  * Version 1.1
  * 15 MODES, CYCLE WITH A BUTTON, LED STRIP CODE
+ * Added a bootanimation
  * TARUN TALREJA
  * credits:
  */
